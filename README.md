@@ -1,0 +1,2 @@
+# android_kernel_motorola_potter
+For_Sailfish
